@@ -5,8 +5,6 @@ Develop by NIGRO SIMONE and MARTINI DAVIDE under the coordination of MICHELONI E
 Project developed for "Informatica Musicale" course. 
 The professors in charge of this course are Antonio Rodà, Giovanni De Poli, Sergio Canazza of University of Padua.
 
-For more information and the description of the steps of this project read the paper "Piano detection.pdf"
-
 GOAL: detection and classification of audio in piano or other.
 
 INPUT: number of seconds for the recording phase, or the audio file to analyze.
